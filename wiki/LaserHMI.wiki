@@ -1,13 +1,11 @@
-This page introduces the reader to the 
+This page introduces the reader to the installing and using LaserHMI.
 
-= Introduction =
+Special Hardware Requirements:
 
-Add your content here.
+- LCD PROJECTOR
+- LASER POINTER
+- webcam
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Other requirements:
+- joblessness..
+- Deep pockets...
